@@ -1,0 +1,91 @@
+  
+   body{
+    font-family: "Poppins",sans-serif;
+    font-size:  15px;
+    background-color:#fff;
+    font-weight: 400;
+    color: #333;
+  }
+  .header .menu ul li{
+      display:inline-block;
+      padding: 15px;
+
+  }
+  .header .menu{
+      float: right
+  }
+  .wrapper{
+	width:1200px;
+    margin:0 auto;
+  }
+  .header{
+      padding:15px 0;
+      position:fixed;
+      left: 0;
+      top: 0;
+      right: 0;
+      z-index: 200;
+
+    
+  }
+  .col8 menu{
+    color: white
+  }
+  .getButton a{
+background: #ed305d;
+border-radius: 30px;
+padding: 15px 20px;
+    line-height: 25px;
+    color: #fff;
+    line-height: 45px;
+    font-weight: 700;
+    font-size: 12px;
+  }
+ .about .about-left{
+  position: absolute;
+;
+  top:50%
+ }
+ .herfin-rengi{
+   color: white
+ }
+ .about{
+  height: 820px;
+  position: relative;
+  background: #ffc10f;
+ }
+ .w{
+  font-size: 70px;
+  font-weight: 800;
+  color:white
+ }
+ .tt{
+  font-size: 14px;
+
+ }
+ .aa{
+position: relative;
+right: 10px;
+top:20px;
+padding: 17px 20px;
+background: #333;
+border: none;
+width: 200px;
+ }
+ 
+  .wekil{
+
+  margin-top: 80px;
+ }
+ .logo
+{
+
+margin-top:21px
+}
+.alt-content{
+  color: #f8f9fa;
+
+}
+
+
+    
